@@ -1,0 +1,91 @@
+body {
+    background-image: url("/static/images/pexels-kaique-rocha-125510.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main {
+    padding-top: 10%;
+}
+
+#myCity {
+    align-items: right;
+    color: #2d82b5;
+    background-color: white;
+    border-color: #2d82b5;
+    border-style: solid;
+    padding: 10px;
+    max-width: 200px;
+    margin-top: 10px;
+    text-align: CENTER;
+    border-radius: 15px;
+    font-size: smaller;
+    cursor: pointer;
+}
+
+#start {
+    border-style: solid;
+    color: white;
+    background-color: #187BCD;
+    padding: 10px;
+    border-radius: 20px;
+    border-color:#187BCD ;
+    cursor: pointer;
+}
+
+.maincontainer1 {
+    border-style: solid;
+    border-color: white;
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px;
+    width: 70%;
+    text-align: center;
+}
+
+.maincontainer2, .maincontainer3 {
+    background-color: white;
+    padding: 25px;
+    width: 90%;
+    text-align: center;
+
+}
+
+#myInput {
+    width: 100%;
+    border-radius: 10px;
+    border-width: 1px;
+    padding: 10px;
+    margin-bottom: 15px;
+    outline: none
+}
+
+#submit, #submit2{
+    background-color: #187BCD;
+    border-color: #187BCD;
+    border-style: none;
+    border-radius: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    color: white;
+    width: 100%;
+    outline: none;
+
+}
+
+ul {
+    list-style: none;
+    list-style-type: none;
+}
+
+li {
+    font-weight: 400;
+}
+
+
+
+img {
+    max-width: 30px;
+    max-height: 100px;
+    padding: 5px;
+}
